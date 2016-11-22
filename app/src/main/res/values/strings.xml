@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">grapes_task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LoadingMore">Loading More</string>
+    <string name="products">Products</string>
+    <string name="productdetail">Product Detail</string>
+    <string name="networkerror">network error</string>
+</resources>
